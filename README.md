@@ -1,2 +1,2 @@
-# Everday-Coding
+# Everyday-Coding
 Learning everyday something new.
