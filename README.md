@@ -7,8 +7,8 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 
 # Content
 
-- Day 1 : LinkedList in Python
-- Day 2 : Finite State Machine (Moore Machine) in VHDL
+- Day 1 : Linked List in Python
+- Day 2 : Finite State Machine in VHDL
 - Day 3 : Stack in Java
 - Day 4 : OS Detection in JavaScript
 - Day 5 : Binary Search in C
