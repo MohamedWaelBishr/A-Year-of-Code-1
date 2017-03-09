@@ -7,12 +7,13 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 
 # Content
 
-- Day 1 : Linked List in Python
-- Day 2 : Finite State Machine in VHDL
-- Day 3 : Stack in Java
-- Day 4 : OS Detection in JavaScript
-- Day 5 : Binary Search in C
+- Day 1 : Python     =>  Linked List
+- Day 2 : VHDL       =>  Finite State Machine
+- Day 3 : Java       =>  Stack
+- Day 4 : JavaScript =>  OS Detection 
+- Day 5 : C          =>  Binary Search
+- Day 6 : Java       =>  Insertion Sort 
 
 # License
 
-Code is signed under MIT License.
+This project is signed under MIT License.
