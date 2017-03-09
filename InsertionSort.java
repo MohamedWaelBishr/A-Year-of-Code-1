@@ -19,7 +19,7 @@ public class InsertionSort {
    
         insertionSort(arr1); 
            
-        System.out.println("Sorted Array);    
+        System.out.println("Sorted Array");    
         for(int i:arr1){    
             System.out.print(i+" ");    
         }    
