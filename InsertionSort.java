@@ -1,8 +1,8 @@
 public class InsertionSort {  
     public static void insertionSort(int num[]) {  
     
-       int j;                     // the number of items sorted so far
-       int key;                // the item to be inserted
+       int j; 
+       int key;
        int i;  
 
        for (j = 1; j < num.length; j++){
@@ -11,8 +11,7 @@ public class InsertionSort {
            
                  num[ i+1 ] = num[ i ];
           }
-         num[ i+1 ] = key;    // Put the key in its proper location
-     }
+         num[ i+1 ] = key; 
     }
 
     public static void main(String a[]){    
