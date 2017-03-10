@@ -13,7 +13,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 - Day 4 : JavaScript =>  OS Detection 
 - Day 5 : C          =>  Binary Search
 - Day 6 : Java       =>  Insertion Sort
-- Day 6 : C++        =>  Calculator Template
+- Day 7 : C++        =>  Calculator Template
 
 # License
 
