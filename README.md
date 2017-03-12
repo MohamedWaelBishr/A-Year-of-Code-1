@@ -14,7 +14,8 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 - Day 5 : C              =>  Binary Search
 - Day 6 : Java           =>  Insertion Sort
 - Day 7 : C++            =>  Calculator Template
-- Day 8 : MATLAB         =>  Functions Plotting 
+- Day 8 : MATLAB         =>  Sub-Plotting 
+- Day 9 : C              =>  Function Pointers 
 
 # License
 
