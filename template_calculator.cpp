@@ -15,7 +15,7 @@ public:
       void setValue2(T2 second);
       T1 add();
       T1 multiply();
-      T1 subtract();
+      T1 sub();
       T1 divide();
  private:
       T1 number1;
@@ -78,17 +78,17 @@ int main(){
       cout << endl;
 
       Calculator<int,int> copyCalc( simpleCalc);
-      cout << "Adding: " << simpleCalc.add() << endl;
-      cout << "Multiplying: " << simpleCalc.multiply() << endl;
-      cout << "Subracting: " << simpleCalc.sub() << endl;
-      cout << "Sividing: " << simpleCalc.divide() << endl;
+      cout << "Adding: " << copyCalc.add() << endl;
+      cout << "Multiplying: " << copyCalc.multiply() << endl;
+      cout << "Subracting: " << copyCalc.sub() << endl;
+      cout << "Sividing: " << copyCalc.divide() << endl;
       cout << endl;
 
       Calculator<float,double> realCalc(1.41421, 2.718281828459045);
-      cout << "Adding: " << simpleCalc.add() << endl;
-      cout << "Multiplying: " << simpleCalc.multiply() << endl;
-      cout << "Subracting: " << simpleCalc.sub() << endl;
-      cout << "Sividing: " << simpleCalc.divide() << endl;
+      cout << "Adding: " << realCalc.add() << endl;
+      cout << "Multiplying: " << realCalc.multiply() << endl;
+      cout << "Subracting: " << realCalc.sub() << endl;
+      cout << "Sividing: " << realCalc.divide() << endl;
       cout << endl;
       
       return 0;
