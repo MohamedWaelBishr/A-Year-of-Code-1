@@ -7,15 +7,16 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 
 # Content
 
-- Day 1 : Python         =>  Linked List
-- Day 2 : VHDL           =>  Finite State Machine
-- Day 3 : Java           =>  Stack
-- Day 4 : JavaScript     =>  OS Detection 
-- Day 5 : C              =>  Binary Search
-- Day 6 : Java           =>  Insertion Sort
-- Day 7 : C++            =>  Calculator Template
-- Day 8 : MATLAB         =>  Sub-Plotting 
-- Day 9 : C              =>  Function Pointers 
+- Day 1  : Python         =>  Linked List
+- Day 2  : VHDL           =>  Finite State Machine
+- Day 3  : Java           =>  Stack
+- Day 4  : JavaScript     =>  OS Detection 
+- Day 5  : C              =>  Binary Search
+- Day 6  : Java           =>  Insertion Sort
+- Day 7  : C++            =>  Calculator Template
+- Day 8  : MATLAB         =>  Sub-Plotting
+- Day 9  : C              =>  Function Pointers 
+- Day 10 : Python         =>  Haversine Formula 
 
 # License
 
