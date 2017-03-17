@@ -20,6 +20,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 - Day 11 : JavaScript&nbsp;&nbsp;&nbsp;&nbsp;=>  Bubble Sort
 - Day 12 : PHP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>  Get IP Address
 - Day 13 : Assembly&nbsp;&nbsp;&nbsp;&nbsp;=>  Addition
+- Day 14 : Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>  HashMap
 
 
 # License
