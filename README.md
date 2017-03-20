@@ -21,6 +21,8 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 - Day 12 : PHP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>  Get IP Address
 - Day 13 : Assembly&nbsp;&nbsp;&nbsp;&nbsp;=>  Addition
 - Day 14 : Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>  HashMap
+- Day 15 : JavaScript&nbsp;&nbsp;&nbsp;&nbsp;=>  Closure
+- Day 16 : C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>  STD Vector
 
 
 # License
