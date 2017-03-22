@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class JavaPascalTriangle {
 
-    public static void main(String args[]) {
+    public static void main(String args[]) { 
 
         int r, i, k, number = 1, j;
         Scanner scan = new Scanner(System.in);
