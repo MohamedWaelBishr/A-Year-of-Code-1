@@ -29,6 +29,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 17 | C | Malloc |
 | 18 | Java | Pascal Triangle |
 | 19 | MATLAB | Matrices |
+| 20 | VHDL | Tri-State Buffer  |
 
 
 # License
