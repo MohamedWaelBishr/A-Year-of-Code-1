@@ -30,6 +30,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 18 | Java | Pascal Triangle |
 | 19 | MATLAB | Matrices |
 | 20 | VHDL | Tri-State Buffer  |
+| 21 | C | Token Counter  |
 
 
 # License
