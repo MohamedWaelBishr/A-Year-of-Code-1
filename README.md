@@ -31,6 +31,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 19 | MATLAB | Matrices |
 | 20 | VHDL | Tri-State Buffer  |
 | 21 | C | Token Counter  |
+| 22 | Java | Singleton  |
 
 
 # License
