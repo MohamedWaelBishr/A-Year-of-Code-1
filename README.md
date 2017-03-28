@@ -33,6 +33,8 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 21 | C | Token Counter  |
 | 22 | Java | Singleton  |
 | 23 | VHDL | Half Adder  |
+| 24 | Python | Get External IP  |
+
 
 
 # License
