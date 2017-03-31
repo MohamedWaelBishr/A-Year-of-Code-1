@@ -36,6 +36,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 24 | Python | Get External IP  |
 | 25 | Java | Generics |
 | 26 | C++ | Heap Sort|
+| 26 | Python | PySerial |
 
 
 
