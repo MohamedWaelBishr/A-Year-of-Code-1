@@ -39,6 +39,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 27 | Python | PySerial |
 | 28 | MATLAB | K-means clustring |
 | 29 | Python | Selection Sort |
+| 30 | Java | Relfection |
 
 
 
