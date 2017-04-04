@@ -40,6 +40,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 28 | MATLAB | K-means clustring |
 | 29 | Python | Selection Sort |
 | 30 | Java | Relfection |
+| 31 | VHDL | Decoder |
 
 
 
