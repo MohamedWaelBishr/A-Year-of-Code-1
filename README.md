@@ -8,12 +8,12 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 # Content
 
 
-| Day | Language | Description |
-| --- | --- | --- |
-| 1 | Python | Linked List |
-| 2 | VHDL | Finite State Machine  |
-| 3 | Java | Stack |
-| 4 | JavaScript | OS Detection |
+| Day | Language | Description | Day | Language | Description |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Python | Linked List |  31 | VHDL | Decoder |
+| 2 | VHDL | Finite State Machine  |  32 | PHP | JSON Encode |
+| 3 | Java | Stack | 33 | C++ | Net Present Value|
+| 4 | JavaScript | OS Detection | 34 | VHDL | ٍShift Register|
 | 5 | C | Binary Search |
 | 6 | Java | Insertion Sort |
 | 7 | C++ | Calculator Template |
@@ -40,9 +40,6 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 28 | MATLAB | K-means clustring |
 | 29 | Python | Selection Sort |
 | 30 | Java | Relfection |
-| 31 | VHDL | Decoder |
-| 32 | PHP | JSON Encode |
-| 33 | C++ | Net Present Value|
 
 # License
 
