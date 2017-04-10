@@ -5,15 +5,6 @@
 This is a personal project to keep updating and sharpening my skills by small increments everyday. <br/>
 Even if I'm not working on serious coding that day to avoid procrastination.
 
-# Join Us 
-
-This idea began to spread around, and some people are joining the challenge, start a repo, message me the link and let's code together :smile: 
-
-- https://github.com/mohammedhemed33/Year-Of-Code-
-- https://github.com/muhammad008/my_year_of_code
-- https://github.com/hossammohammed72/My-Year-Of-Code
-
-
 # Content
 
 
@@ -49,6 +40,14 @@ This idea began to spread around, and some people are joining the challenge, sta
 | 28 | MATLAB | K-means clustring |
 | 29 | Python | Selection Sort |
 | 30 | Java | Relfection |
+
+# Join Us 
+
+This idea began to spread around, and some people are joining the challenge, start a repo, message me the link and let's code together 
+
+- https://github.com/mohammedhemed33/Year-Of-Code-
+- https://github.com/muhammad008/my_year_of_code
+- https://github.com/hossammohammed72/My-Year-Of-Code
 
 # License
 
