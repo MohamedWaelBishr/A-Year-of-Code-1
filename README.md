@@ -15,7 +15,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 3 | Java | Stack | 33 | C++ | Net Present Value|
 | 4 | JavaScript | OS Detection | 34 | VHDL | ٍShift Register|
 | 5 | C | Binary Search | 35 | Java | ٍDate Class |
-| 6 | Java | Insertion Sort | 36 | Java | ٍThreading |
+| 6 | Java | Insertion Sort | 36 | Java | Threading |
 | 7 | C++ | Calculator Template | 37 | VHDL | MOD-11 Counter |
 | 8 | MATLAB |  Sub Plotting |
 | 9 | C | Function Pointers |
