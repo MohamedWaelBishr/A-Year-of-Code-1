@@ -43,7 +43,8 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 
 # Join Us 
 
-This idea began to spread around, and some people are joining the challenge, start a repo, message me the link and let's code together 
+This idea began to spread around, and some people are joining the challenge..<br/>
+Start a repo, message me the link and let's code together.
 
 - https://github.com/mohammedhemed33/Year-Of-Code-
 - https://github.com/muhammad008/my_year_of_code
