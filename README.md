@@ -17,7 +17,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 5 | C | Binary Search | 35 | Java | ٍDate Class |
 | 6 | Java | Insertion Sort | 36 | Java | Threading |
 | 7 | C++ | Calculator Template | 37 | VHDL | MOD-11 Counter |
-| 8 | MATLAB |  Sub Plotting |
+| 8 | MATLAB |  Sub Plotting | 38 | C++ | Dynamic Memory |
 | 9 | C | Function Pointers |
 | 10 | Python | Haversine Formula |
 | 11 | JavaScript | Bubble Sort |
