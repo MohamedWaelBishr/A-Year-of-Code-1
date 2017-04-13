@@ -19,7 +19,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 7 | C++ | Calculator Template | 37 | VHDL | MOD-11 Counter |
 | 8 | MATLAB |  Sub Plotting | 38 | C++ | Dynamic Memory |
 | 9 | C | Function Pointers | 39 | Java | Detect Multiples |
-| 10 | Python | Haversine Formula |
+| 10 | Python | Haversine Formula | 40 | Python | UDP |
 | 11 | JavaScript | Bubble Sort |
 | 12 | PHP | Get IP Address |
 | 13 | Assembly | Addition |
