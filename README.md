@@ -21,7 +21,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 9 | C | Function Pointers | 39 | Java | Detect Multiples |
 | 10 | Python | Haversine Formula | 40 | Python | UDP |
 | 11 | JavaScript | Bubble Sort | 41 | C | Queue |
-| 12 | PHP | Get IP Address |
+| 12 | PHP | Get IP Address | 42 | Java | Factory Pattern |
 | 13 | Assembly | Addition |
 | 14 | Java | HashMap |
 | 15 | JavaScript | Closure |
