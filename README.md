@@ -23,7 +23,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 11 | JavaScript | Bubble Sort | 41 | C | Queue |
 | 12 | PHP | Get IP Address | 42 | Java | Factory Pattern |
 | 13 | Assembly | Addition | 43 | Python | Multiprocessing |
-| 14 | Java | HashMap |
+| 14 | Java | HashMap | 44 | VHDL | D-Flip Flop
 | 15 | JavaScript | Closure |
 | 16 | C++ | STL Vector |
 | 17 | C | Malloc |
