@@ -24,7 +24,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 12 | PHP | Get IP Address | 42 | Java | Factory Pattern |
 | 13 | Assembly | Addition | 43 | Python | Multiprocessing |
 | 14 | Java | HashMap | 44 | VHDL | D-Flip Flop |
-| 15 | JavaScript | Closure |
+| 15 | JavaScript | Closure | 45 | C | Diamond |
 | 16 | C++ | STL Vector |
 | 17 | C | Malloc |
 | 18 | Java | Pascal Triangle |
