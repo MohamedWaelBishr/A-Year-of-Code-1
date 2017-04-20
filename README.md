@@ -26,7 +26,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 14 | Java | HashMap | 44 | VHDL | D-Flip Flop |
 | 15 | JavaScript | Closure | 45 | C | Diamond |
 | 16 | C++ | STL Vector | 46 | VHDL | Johnson Counter |
-| 17 | C | Malloc |
+| 17 | C | Malloc | 47 | JavaScript | Form Submit |
 | 18 | Java | Pascal Triangle |
 | 19 | MATLAB | Matrices |
 | 20 | VHDL | Tri-State Buffer  |
