@@ -46,11 +46,15 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 This idea began to spread around, and some people are joining the challenge..<br/>
 Start a repo, message me the link and let's code together.
 
+
+**Other People in the challenge :**
+
 - [Mohamed Hemed](https://github.com/mohammedhemed33/Year-Of-Code-)
 - [Mohamed Ali](https://github.com/muhammad008/my_year_of_code)
 - [Hossam Mohamed](https://github.com/hossammohammed72/My-Year-Of-Code)
 - [Yara Mohsen](https://github.com/YaraMohsen/Year_of_code)
 - [May Elfkiy](https://github.com/MayElfkiy/A-year-of-code)
+
 # License
 
 This project is signed under MIT License.
