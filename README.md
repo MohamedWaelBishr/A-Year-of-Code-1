@@ -27,7 +27,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 15 | JavaScript | Closure | 45 | C | Diamond |
 | 16 | C++ | STL Vector | 46 | VHDL | Johnson Counter |
 | 17 | C | Malloc | 47 | JavaScript | Form Submit |
-| 18 | Java | Pascal Triangle |
+| 18 | Java | Pascal Triangle |48 | C++ | Print Shapes |
 | 19 | MATLAB | Matrices |
 | 20 | VHDL | Tri-State Buffer  |
 | 21 | C | Token Counter  |
