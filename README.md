@@ -29,7 +29,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 17 | C | Malloc | 47 | JavaScript | Form Submit |
 | 18 | Java | Pascal Triangle | 48 | C++ | Print Shapes |
 | 19 | MATLAB | Matrices | 49 | Java | Quick Sort |
-| 20 | VHDL | Tri-State Buffer  |
+| 20 | VHDL | Tri-State Buffer  | 50 | C++ | Stopping Distance |
 | 21 | C | Token Counter  |
 | 22 | Java | Singleton  |
 | 23 | VHDL | Half Adder  |
