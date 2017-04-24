@@ -30,7 +30,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 18 | Java | Pascal Triangle | 48 | C++ | Print Shapes |
 | 19 | MATLAB | Matrices | 49 | Java | Quick Sort |
 | 20 | VHDL | Tri-State Buffer  | 50 | C++ | Stopping Distance |
-| 21 | C | Token Counter  |
+| 21 | C | Token Counter  | 51 | Python | Flask REST |
 | 22 | Java | Singleton  |
 | 23 | VHDL | Half Adder  |
 | 24 | Python | Get External IP  |
