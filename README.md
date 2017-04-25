@@ -31,7 +31,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 19 | MATLAB | Matrices | 49 | Java | Quick Sort |
 | 20 | VHDL | Tri-State Buffer  | 50 | C++ | Stopping Distance |
 | 21 | C | Token Counter  | 51 | Python | Flask REST |
-| 22 | Java | Singleton  |
+| 22 | Java | Singleton  | 52 | VHDL | SISO |
 | 23 | VHDL | Half Adder  |
 | 24 | Python | Get External IP  |
 | 25 | Java | Generics |
