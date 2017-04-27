@@ -33,7 +33,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 21 | C | Token Counter  | 51 | Python | Flask REST |
 | 22 | Java | Singleton  | 52 | VHDL | SISO |
 | 23 | VHDL | Half Adder  | 53 | PHP | Form Validation |
-| 24 | Python | Get External IP  |
+| 24 | Python | Get External IP  | 54 | Python | The Sieve of Eratosthenes |
 | 25 | Java | Generics |
 | 26 | C++ | Heap Sort|
 | 27 | Python | PySerial |
