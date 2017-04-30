@@ -35,8 +35,8 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 23 | VHDL | Half Adder  | 53 | PHP | Form Validation |
 | 24 | Python | Get External IP  | 54 | Python | The Sieve of Eratosthenes |
 | 25 | Java | Generics | 55 | C | Swap without temporary Variable |
-| 26 | C++ | Heap Sort|
-| 27 | Python | PySerial |
+| 26 | C++ | Heap Sort| 56 | Python | FTP Server |
+| 27 | Python | PySerial | 57 | PHP | Simple CRUD |
 | 28 | MATLAB | K-means clustring |
 | 29 | Python | Selection Sort |
 | 30 | Java | Relfection |
