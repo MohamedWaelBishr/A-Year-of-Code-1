@@ -37,7 +37,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 25 | Java | Generics | 55 | C | Swap without temporary Variable |
 | 26 | C++ | Heap Sort| 56 | Python | FTP Server |
 | 27 | Python | PySerial | 57 | PHP | Simple CRUD |
-| 28 | MATLAB | K-means clustring |
+| 28 | MATLAB | K-means clustring | 58 | Java | FizzBuzz |
 | 29 | Python | Selection Sort |
 | 30 | Java | Relfection |
 
