@@ -39,7 +39,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 27 | Python | PySerial | 57 | PHP | Simple CRUD |
 | 28 | MATLAB | K-means clustring | 58 | Java | FizzBuzz |
 | 29 | Python | Selection Sort | 59 | C | Breadth First Search |
-| 30 | Java | Relfection |
+| 30 | Java | Relfection | 60 | C | Depth First Search |
 
 # Join Us 
 
