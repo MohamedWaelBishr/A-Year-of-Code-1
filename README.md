@@ -42,7 +42,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 30 | Java | Relfection | 60 | C | Depth First Search |
 
 | Day | Language | Description |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | 
 | 61 | MATLAB | Fast Fourier Transform | 
 | 62 | VHDL | Arithmetic Logic Unit | 
 
