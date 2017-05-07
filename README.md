@@ -46,6 +46,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 61 | MATLAB | Fast Fourier Transform | 
 | 62 | VHDL | Arithmetic Logic Unit | 
 | 63 | C | Fast Inverse Square Root | 
+| 64 | C++ | Regular Expressions | 
 
 
 # Join Us 
