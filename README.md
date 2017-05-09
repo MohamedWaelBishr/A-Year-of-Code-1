@@ -48,6 +48,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 63 | C | Fast Inverse Square Root | 
 | 64 | C++ | Regular Expressions | 
 | 65 | Bash | Calculator | 
+| 66 | Verilog | Up Counter | 
 
 
 # Join Us 
