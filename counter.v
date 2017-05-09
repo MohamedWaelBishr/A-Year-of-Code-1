@@ -1,4 +1,5 @@
-module counter (C, CLR, Q); 
+module counter (C, CLR, Q);
+
 input C, CLR; 
 output [3:0] Q; 
 reg [3:0] tmp; 
@@ -11,4 +12,5 @@ reg [3:0] tmp;
         tmp = tmp + 1'b1; 
       end 
   assign Q = tmp; 
+ 
 endmodule 
