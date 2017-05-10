@@ -49,6 +49,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 64 | C++ | Regular Expressions | 
 | 65 | Bash | Calculator | 
 | 66 | Verilog | Up Counter | 
+| 67 | Java | Lambda Expressions | 
 
 
 # Join Us 
