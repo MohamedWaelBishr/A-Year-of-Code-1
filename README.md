@@ -41,8 +41,8 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 29 | Python | Selection Sort | 59 | C | Breadth First Search |
 | 30 | Java | Relfection | 60 | C | Depth First Search |
 
-| Day | Language | Description |
-| --- | --- | --- | 
+| Day | Language | Description | Day | Language | Description |
+| --- | --- | --- | --- | --- | --- |  
 | 61 | MATLAB | Fast Fourier Transform | 
 | 62 | VHDL | Arithmetic Logic Unit | 
 | 63 | C | Fast Inverse Square Root | 
@@ -51,6 +51,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 66 | Verilog | Up Counter | 
 | 67 | Java | Lambda Expressions | 
 | 68 | C | String Replace | 
+| 68 | Javascript | Merge Sort | 
 
 
 # Join Us 
