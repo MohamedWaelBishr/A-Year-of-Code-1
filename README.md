@@ -51,7 +51,8 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 66 | Verilog | Up Counter | 
 | 67 | Java | Lambda Expressions | 
 | 68 | C | String Replace | 
-| 68 | Javascript | Merge Sort | 
+| 69 | Javascript | Merge Sort | 
+| 70 | PHP | Clone Pattern | 
 
 
 # Join Us 
