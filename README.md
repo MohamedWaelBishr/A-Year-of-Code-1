@@ -54,6 +54,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 69 | Javascript | Merge Sort | 
 | 70 | PHP | Clone Pattern | 
 | 71 | MATLAB | Maximum Number | 
+| 72 | C++ | Guess My Number | 
 
 
 # Join Us 
