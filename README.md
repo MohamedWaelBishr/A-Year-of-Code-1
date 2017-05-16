@@ -55,6 +55,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 70 | PHP | Clone Pattern | 
 | 71 | MATLAB | Maximum Number | 
 | 72 | C++ | Guess My Number | 
+| 73 | C++ | Newton Square Root | 
 
 
 # Join Us 
