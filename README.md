@@ -56,6 +56,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 71 | MATLAB | Maximum Number | 
 | 72 | C++ | Guess My Number | 
 | 73 | C++ | Newton Square Root | 
+| 74 | VHDL | RAM Module | 
 
 
 # Join Us 
