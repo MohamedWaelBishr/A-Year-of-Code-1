@@ -60,7 +60,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 75 | C | File Write | 
 | 76 | Bash | Sleep Sort | 
 | 77 | Python | Radix Sort | 
-| 78 | Java Enum | 
+| 78 | Java | Enum | 
 
 
 # Join Us 
