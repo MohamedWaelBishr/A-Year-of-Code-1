@@ -62,6 +62,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 77 | Python | Radix Sort | 
 | 78 | Java | Enum | 
 | 79 | C++ | Namespaces | 
+| 80 | C++ | Smart Pointers | 
 
 
 # Join Us 
