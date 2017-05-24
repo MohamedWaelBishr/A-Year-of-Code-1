@@ -63,6 +63,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 78 | Java | Enum | 
 | 79 | C++ | Namespaces | 
 | 80 | C++ | Smart Pointers | 
+| 81 | C | Get Variable Name | 
 
 
 # Join Us 
