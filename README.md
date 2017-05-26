@@ -65,6 +65,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 80 | C++ | Smart Pointers | 
 | 81 | C | Get Variable Name | 
 | 82 | Java | Hash Table | 
+| 83 | VHDL | SR Latch | 
 
 HashTable
 # Join Us 
