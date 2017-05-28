@@ -67,6 +67,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 82 | Java | Hash Table | 
 | 83 | VHDL | SR Latch | 
 | 84 | MATLAB | Limits | 
+| 85 | JavaScript | Detect Mobile OS | 
 
 
 # Join Us 
