@@ -68,6 +68,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 83 | VHDL | SR Latch | 
 | 84 | MATLAB | Limits | 
 | 85 | JavaScript | Detect Mobile OS | 
+| 86 | Python | Check Palindrome | 
 
 
 # Join Us 
