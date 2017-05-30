@@ -86,6 +86,9 @@ Start a repo, message me the link and let's code together.
 - [Yara Mohsen](https://github.com/YaraMohsen/Year_of_code)
 - [May Elfkiy](https://github.com/MayElfkiy/A-year-of-code)
 - [Mahmoud Mohamed](https://github.com/Mahmoud-Mohamed-Elgamily/A-Year-Of-Code)
+- [Mohamed Wael Bishr](https://github.com/MohamedWaelBishr/Python-Every-Day)
+- [Ahmed Alaa](https://gitlab.com/nerdonyte/1kofcode)
+
 
 # License
 
