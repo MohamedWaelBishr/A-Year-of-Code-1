@@ -69,6 +69,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 84 | MATLAB | Limits | 
 | 85 | JavaScript | Detect Mobile OS | 
 | 86 | Python | Check Palindrome | 
+| 87 | C++ | Reverse Number |
 
 
 # Join Us 
