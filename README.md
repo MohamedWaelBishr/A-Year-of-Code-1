@@ -70,6 +70,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 85 | JavaScript | Detect Mobile OS | 
 | 86 | Python | Check Palindrome | 
 | 87 | C++ | Reverse Number |
+| 88 | C | Tomohiko Sakamoto Algorithm |
 
 
 # Join Us 
