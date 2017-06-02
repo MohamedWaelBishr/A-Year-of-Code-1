@@ -71,6 +71,8 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | 86 | Python | Check Palindrome | 
 | 87 | C++ | Reverse Number |
 | 88 | C | Tomohiko Sakamoto Algorithm |
+| 89 | Java | Shell Sort |
+| 90 | Python | Function Decorators |
 
 
 # Join Us 
