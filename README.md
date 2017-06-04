@@ -44,7 +44,7 @@ Even if I'm not working on serious coding that day to avoid procrastination.
 | Day | Language | Description | Day | Language | Description |
 | --- | --- | --- | --- | --- | --- |  
 | 61 | MATLAB | Fast Fourier Transform | 91 | Assembly | Hello World |
-| 62 | VHDL | Arithmetic Logic Unit | 
+| 62 | VHDL | Arithmetic Logic Unit | 92 | VHDL | ROM Module |
 | 63 | C | Fast Inverse Square Root | 
 | 64 | C++ | Regular Expressions | 
 | 65 | Bash | Calculator | 
